@@ -1,0 +1,14 @@
+{
+  "signUp": "Sign Up",
+  "signUpDesc": "Register to manage your account",
+  "firstName": "FirstName",
+  "lastName": "LastName",
+  "password": "Password",
+  "confirmPassword": "Confirm password",
+  "doYouHaveAccount": "Do you have an account? Login",
+  "signIn": "Sign In",
+  "signInDesc": "Email or username",
+  "notRegistered": "Not registered? Create a account",
+  "requiredError": "This field is required",
+  "signInFail": "Email or password is not correct"
+}

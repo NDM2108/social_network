@@ -1,0 +1,14 @@
+{
+  "signUp": "Đăng ký",
+  "signUpDesc": "Đăng ký tài khoản",
+  "firstName": "Họ",
+  "lastName": "Tên",
+  "password": "Mật khẩu",
+  "confirmPassword": "Mật khẩu",
+  "doYouHaveAccount": "Đã có tài khoản? Đăng nhập",
+  "signIn": "Đăng nhập",
+  "signInDesc": "Email hoặc tên đăng nhập",
+  "notRegistered": "Chưa có tài khoản? Đăng ký ngay",
+  "requiredError": "Không để trống thông tin này",
+  "signInFail": "Tên đăng nhập hoặc mật khẩu không đúng"
+}
